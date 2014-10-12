@@ -3,7 +3,7 @@
             var timer;
             var currentItem = 0;
              $(".carousel").css({"width":"400px","margin":"auto","position":"relative"})
-                           .append("<img class='image' style='height:400px' src=''>\
+                           .append("<img class='image' style='height:400px' src='resource/loading.jpg'>\
                             <div class='comment' style='position:absolute; top:350px; \
                         font-size:18px; background-color:green; opacity:0.7;'></div> \
                 <div class='page-bottom' style='margin-left:36px'></div>");     
